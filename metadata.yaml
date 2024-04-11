@@ -1,0 +1,34 @@
+_repo: Erotika_73185
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cankar, Ivan
+    alias: Цанкар, Иван
+    birthdate: 1876
+    deathdate: 1918
+    gutenberg_agent_id: '36802'
+    url: http://www.gutenberg.org/2009/agents/36802
+    wikipedia: https://en.wikipedia.org/wiki/Ivan_Cankar
+description: ''
+gutenberg_issued: '2024-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73185'
+  lccn: '72970540'
+language: sl
+pgterms:marc904: http://archive.org/details/erotika00cankgoog
+pgterms:marc905: 20070531042206cankar
+pgterms:marc906: '1899'
+pgterms:marc907: SI
+production_note: Peter Podgoršek and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLjubljana :$bKleinmayr & Bamberg, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slovenian poetry -- 19th century'
+- !lcc 'PG'
+- GITenberg
+title: Erotika
+url: http://www.gutenberg.org/ebooks/73185
